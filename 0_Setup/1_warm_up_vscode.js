@@ -92,10 +92,10 @@
 // Hint: follow the pattern.
 a = 1
 b = 2
-c.= 3
+c = 3
 
 // Hint: This function has no name following the word function.
-function(notUsed) {
+function notUsed(notUsed) {
     console.log('Hello!');
 }
 
@@ -109,7 +109,7 @@ function(notUsed) {
 
 // a. Comment out useless code with Ctrl-/. Notice if you applied the
 // command multiple times, it will uncomment/comment/uncomment... it.
-uselessCode = 'I am useless';
+// uselessCode = 'I am useless';
 
 // c. Cool. What other shorcuts are available? Here is a shortcut to find
 // them all. Ctrl-Shift-P. Look around and remember how to get here,
@@ -123,9 +123,9 @@ uselessCode = 'I am useless';
 // and replace the explanation mark with a sad face. Press Esc to eliminate
 // multiple cursors.
 
-catchMeIfYouCan1 = 'You did not catch me!';
-catchMeIfYouCan2 = 'You did not catch me!';
-catchMeIfYouCan3 = 'You did not catch me!';
+catchMeIfYouCan1 = 'You did ?:() catch me!';
+catchMeIfYouCan2 = 'You did ?:() catch me!';
+catchMeIfYouCan3 = 'You did ?:() catch me!';
 
 
 // EXERCISE 5. Bracket Matching. (Yes I know we skipped Ex. 4)
